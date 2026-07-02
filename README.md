@@ -22,6 +22,6 @@ built as part of an internship assignment (Task 4).
 1. Install [XAMPP](https://www.apachefriends.org/)
 2. Clone or download this repo into your `htdocs` folder
 3. Open **phpMyAdmin** and import `employee_attendance.sql`
-4. Open `http://localhost/employee-attendance-system` in your browser
+4. Open `http://localhost/employee_attendance` in your browser
 
 ## Project Structure
