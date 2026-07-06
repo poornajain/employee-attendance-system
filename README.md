@@ -1,7 +1,7 @@
 # Employee Attendance Management System
 
 A full-stack web application for managing employee attendance records, 
-built as part of an internship assignment (Task 4).
+built as part of an internship assignment.
 
 ## Features
 - Live dashboard with real-time attendance stats (Present, Absent, Total)
